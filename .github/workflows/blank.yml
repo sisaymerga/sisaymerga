@@ -1,0 +1,28 @@
+name: Download Profile Images
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Download Images
+        run: |
+          # 1. Download the Cyber HUD Header
+          curl -L "https://giphy.com" -o header.gif
+          
+          # 2. Download the Hacking Animation
+          curl -L "https://giphy.com" -o hacking.gif
+          
+          # 3. Download the Footer Wave
+          curl -L "https://vercel.app" -o footer.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add header.gif hacking.gif footer.svg
+          git commit -m "Auto-downloaded profile images"
+          git push
