@@ -1,70 +1,64 @@
 <div align="center">
-  <img src="https://giphy.com" width="100%" height="250px" style="border-radius: 10px; border: 2px solid #00FF66;" alt="Cyber Header"/>
+  <img src="./glitch-header.gif" width="100%" style="border-radius: 8px; border: 1px solid #39FF14;">
   
-  <br/>
-  
-  <a href="https://git.io">
-    <img src="https://herokuapp.com" alt="Typing SVG" />
+  <br/><br/>
+
+  <!-- TERMINAL TYPING EFFECT -->
+  <a href="#">
+    <img src="https://herokuapp.com" alt="Terminal Typing" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://giphy.com" width="600" alt="Hacking Animation"/>
+  <img src="./neon-line.gif" width="100%">
 </div>
 
----
+### 💀 /root/user_info.txt
+> *"We don't hack to escape reality, we hack to protect it."*
 
-### ⚡ Operational Capability
-> *"Security is not a product, but a process."*
+```text
+USER_ID:   Sisay Merga (VulnRoot)
+ROLE:      Cybersecurity Specialist | Penetration Tester
+STATUS:    🔴 ACTIVE // HUNTING
+LOCATION:  Ethiopia [ENCRYPTED]
+```
 
-I am a **Cybersecurity Specialist** and **Full Stack Developer**. My mission is to build digital fortresses and break them down before the bad guys do.
+### 💉 Injection Tools (The Arsenal)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛠️  The Arsenal (Tech Stack)</h3>
-      <p align="center">
-        <!-- These are Skill Icons - High Res & Reliable -->
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev" />
-        </a>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎯  Target Acquisition</h3>
-      <ul align="left">
-        <li>🕸️ <b>Web Security:</b> OWASP Top 10, SQLi, XSS</li>
-        <li>🛡️ <b>Network Defense:</b> Wireshark, Nmap, Metasploit</li>
-        <li>🐍 <b>Automation:</b> Python Scripting for Pentesting</li>
-        <li>💻 <b>Development:</b> Secure Django Architectures</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
-
-### 📡 Network Activity (Contribution Snake)
-*This animation tracks my commit activity as a living entity.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
-  <img alt="github contribution grid snake animation" src="https://github.com">
-</picture>
-
----
+### ebox::stats --verbose
+<div align="center">
+  <!-- Uses the "Transparent" theme to blend into GitHub Dark Mode like Coffin -->
+  <img src="https://vercel.app" height="160"/>
+  <img src="https://vercel.app" height="160"/>
+</div>
 
 <div align="center">
-  <h3>💀 Killchain Statistics</h3>
-  <br/>
-  <!-- Large Graphical Stats -->
-  <img src="https://vercel.app" height="180"/>
-  <img src="https://vercel.app" height="180"/>
+  <img src="./neon-line.gif" width="100%">
+</div>
+
+### 📡 Establish Connection
+<div align="center">
+  <a href="https://linkedin.com">
+    <img src="https://shields.io">
+  </a>
+  <a href="https://x.com">
+    <img src="https://shields.io">
+  </a>
+  <a href="mailto:sisaymerga21@gmail.com">
+    <img src="https://shields.io">
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://vercel.app" width="100%"/>
+  <img src="./access-granted.gif" width="300">
+  <p style="color: #39FF14; font-family: monospace;">SESSION TERMINATED.</p>
 </div>
