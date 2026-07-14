@@ -1,9 +1,23 @@
-# Hi there! I'm Sisay Merga 👋 
-### ⚡ Full-Stack Developer | Backend & Frontend | Cybersecurity Specialist & Penetration Tester
+<!-- CENTERED HEADER WITH ANIMATED GLOW EFFECT -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Sisay Merga Header"/>
+</p>
+
+<!-- LIVE ANIMATED SUBTITLE TYPING SIMULATION -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://herokuapp.com;🏠+Backend+%26+Frontend+Engineer;🛡️+Cybersecurity+Specialist;🎯+Penetration+Tester+%26+Bug+Hunter" alt="Typing Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://shields.io" alt="Status Badge"/>
+  <img src="https://shields.io" alt="Location Badge"/>
+</p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Mission Profile & Bio
 I bridge the gap between building high-performance web applications and ensuring they are completely secure against modern threats. As a Full-Stack Developer specializing in Django and Backend engineering, I actively apply security auditing and penetration testing techniques to write hardened, production-ready code.
 
 - 🔭 **Current Focus:** Developing secure backend systems and hunting for software vulnerabilities.
@@ -12,39 +26,54 @@ I bridge the gap between building high-performance web applications and ensuring
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🧰 Tech Stack Matrix
 
-#### 🛡️ Cybersecurity & Penetration Testing
-![Kali Linux](https://shields.io) 
-![Cybersecurity](https://shields.io) 
-![Penetration Testing](https://shields.io)
+```text
+========================================================================
+⚡ CYBERSECURITY & PENETRATION TESTING 
+========================================================================
+ 🛡️ Environment:       [ Kali Linux OS ] [ Arch Linux ]
+ 🎯 Specializations:   [ Network Pentesting ] [ Web App Vulnerabilities ]
+ 🛠️ Active Utilities:  [ Nmap ] [ Burp Suite ] [ Metasploit ] [ Wireshark ]
 
-#### 💻 Software & Backend Engineering
-![Python](https://shields.io) 
-![Django](https://shields.io) 
-![Full-Stack](https://shields.io)
-
-#### 🗄️ Databases & Structured Storage
-![PostgreSQL](https://shields.io) 
-![MySQL](https://shields.io) 
-![SQLite](https://shields.io) 
-![SQL](https://shields.io)
-
----
-
-### 📊 GitHub Activity Monitors
-
-![Sisay's GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
-
-![GitHub Streak](https://herokuapp.com)
+========================================================================
+💻 SOFTWARE ENGINE & FULL-STACK DEVELOPMENT
+========================================================================
+ 🐍 Core Language:     [ Python 3.x ] [ Core SQL Architecture ]
+ 🌐 Web Architecture:  [ Django Framework ] [ REST APIs ] [ Full-Stack ]
+ 🗄️ Database Systems: [ PostgreSQL ] [ MySQL ] [ SQLite Engine ]
+========================================================================
+```
 
 ---
 
-### 🤝 Let's Connect & Collaborate
-Feel free to reach out for pentesting contracts, backend engineering roles, or security architecture collaborations!
+### 📊 Real-Time Matrix Monitors
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="Stats Matrix"/>
+  <img src="https://vercel.app" width="48%" alt="Language Matrix"/>
+</p>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X/Twitter](https://shields.io)](https://x.com)
-[![Email](https://shields.io)](mailto:sisaymerga21@gmail.com)
+<p align="center">
+  <img src="https://herokuapp.com" width="100%" alt="Commit Activity Streak Tracker" />
+</p>
+
+---
+
+### 🤝 Node Connectivity (Let's Collaborate)
+*Click any terminal terminal link node to establish a communication route:*
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Node"/>
+  </a>
+  <a href="https://x.com" target="_blank">
+    <img src="https://shields.io" alt="Twitter Node"/>
+  </a>
+  <a href="mailto:sisaymerga21@gmail.com">
+    <img src="https://shields.io" alt="Email Node"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Visitor Target Count" />
+</p>
