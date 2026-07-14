@@ -1,0 +1,28 @@
+name: Get Coffin Theme
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Download Hacker Assets
+        run: |
+          # 1. The "Glitch" Header (Mr. Robot Style)
+          curl -L "https://giphy.com" -o glitch-header.gif
+          
+          # 2. The "Access Granted" Footer
+          curl -L "https://giphy.com" -o access-granted.gif
+          
+          # 3. Neon Divider Line
+          curl -L "https://githubusercontent.com" -o neon-line.gif
+
+      - name: Save to Repo
+        run: |
+          git config --global user.name "ThemeBot"
+          git config --global user.email "bot@github.com"
+          git add glitch-header.gif access-granted.gif neon-line.gif
+          git commit -m "Installed Coffin Theme Assets"
+          git push
