@@ -1,11 +1,5 @@
-## Hi there 👋
-
 # Hi there! I'm Sisay Merga 👋 
 ### ⚡ Full-Stack Developer | Backend & Frontend | Cybersecurity Specialist & Penetration Tester
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -21,41 +15,36 @@ I bridge the gap between building high-performance web applications and ensuring
 ### 🛠️ Tech Stack & Ecosystem
 
 #### 🛡️ Cybersecurity & Penetration Testing
-![Kali Linux](https://shields.io)
-![Cybersecurity](https://shields.io)
+![Kali Linux](https://shields.io) 
+![Cybersecurity](https://shields.io) 
 ![Penetration Testing](https://shields.io)
 
 #### 💻 Software & Backend Engineering
-![Python](https://shields.io)
-![Django](https://shields.io)
+![Python](https://shields.io) 
+![Django](https://shields.io) 
 ![Full-Stack](https://shields.io)
 
 #### 🗄️ Databases & Structured Storage
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![SQLite](https://shields.io)
+![PostgreSQL](https://shields.io) 
+![MySQL](https://shields.io) 
+![SQLite](https://shields.io) 
 ![SQL](https://shields.io)
 
 ---
 
 ### 📊 GitHub Activity Monitors
-<p align="left">
-  <img src="https://vercel.app" alt="Sisay's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+![Sisay's GitHub Stats](https://vercel.app)
 
+![Top Languages](https://vercel.app)
+
+![GitHub Streak](https://herokuapp.com)
 
 ---
 
 ### 🤝 Let's Connect & Collaborate
 Feel free to reach out for pentesting contracts, backend engineering roles, or security architecture collaborations!
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sisay-merga-00388835a/)
-[![X/Twitter](https://shields.io)](https://x.com/vulnroot)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![X/Twitter](https://shields.io)](https://x.com)
 [![Email](https://shields.io)](mailto:sisaymerga21@gmail.com)
-
-
