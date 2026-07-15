@@ -34,7 +34,7 @@ sisay@kali:~$ cat about_me.txt
 ### `~$ tech_stack --list`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,bootstrap, linux,git,github,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,bootstrap,linux,git,github,bash,vscode" />
 </p>
 
 <p align="center">
