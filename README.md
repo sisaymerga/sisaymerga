@@ -52,8 +52,8 @@ sisay@kali:~$ cat about_me.txt
 ### `~$ github_stats --fetch`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sisaymerga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisaymerga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sisaymerga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sisaymerga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
 </p>
 
 <p align="center">
