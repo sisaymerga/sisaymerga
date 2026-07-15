@@ -52,8 +52,8 @@ sisay@kali:~$ cat about_me.txt
 ### `~$ github_stats --fetch`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sisaymerga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisaymerga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sisaymerga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisaymerga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ sisay@kali:~$ cat about_me.txt
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sisaymerga/count.svg" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=sisaymerga&label=Profile+Views&color=00FF00&style=flat" alt="visitor count" />
 </p>
 
 <p align="center">
